@@ -1,0 +1,115 @@
+#div1{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#down{
+    border-radius: 0%;
+    animation-name: or;
+    animation-duration: 4s;
+}
+#or{
+    color:orange;
+    animation-name: or;
+    animation-duration: 3s;
+}
+
+#aaa{
+    color:white;
+    animation-name: aaa;
+    animation-duration: 3s;
+}
+#git:hover{
+    font-size: 29px;
+    color: darkslategrey;
+}
+#git{
+    font-size: 25px;
+    color: darkslategrey;
+}
+
+#in{
+    color: white;
+    font-size: 38px;
+}
+
+#fb{
+    color: white;
+    font-size: 38px;
+}
+
+#lk{
+    color: white;
+    font-size: 38px;
+}
+
+#gi{
+    color: white;
+    font-size: 38px;
+}
+
+#in:hover{
+    color: rgb(251, 57, 88);
+    font-size: 42px;
+    margin-left: 10px;
+}
+
+#fb:hover{
+    color: blue;
+    font-size: 42px;
+    margin-left: 10px;
+}
+
+#lk:hover{
+    color: rgb(0, 68, 255);
+    font-size: 42px;
+    margin-left: 10px;
+}
+
+#gi:hover{
+    color: rgb(73, 73, 73);
+    font-size: 42px;
+    margin-left: 10px;
+}
+
+#inin{
+    font-size: 20px;
+}
+
+#fbfb{
+    font-size: 20px;
+}
+
+#lklk{
+    font-size: 20px;
+}
+
+#gigi{
+    font-size: 20px;
+}
+
+
+#iimmgg{
+    animation-name: iimmgg;
+    animation-duration: 2s;
+}
+
+@keyframes iimmgg{
+    from{ transform: translateY(50px); }
+    to{ transform: translateX(0px);}
+}
+
+@keyframes or{
+    from{ transform: translateY(50px); }
+    to{ transform: translateX(0px);}
+}
+
+@keyframes aaa{
+    from{ transform: translateY(150px); }
+    to{ transform: translateX(00px);}
+}
+
+@keyframes aaa{
+    from{ transform: translateY(200px); }
+    to{ transform: translateX(0px);}
+}
