@@ -59,7 +59,7 @@
                         <a class="nav-link" href="#cont"><i class="bi bi-telephone-fill text-warning"></i>Contact Me</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="../LAFAR_AYOUB.pdf" download><i class="bi bi-file-pdf-fill text-warning"></i> CV</a>
+                        <a class="nav-link" href="../Lafar-Ayoub-CV.pdf" download><i class="bi bi-file-pdf-fill text-warning"></i> CV</a>
                     </li>
 
                     <li class="nav-item" style="margin-top: 5px">
